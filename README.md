@@ -1,28 +1,27 @@
 # FIFAWC-2026US
 # 🛡️ Cybersecurity Awareness Platform for Fans
 
-**Empowering World Cup 2026 attendees and viewers to stay cyber-safe—one quiz, tip, and simulation at a time.**
+**Helping World Cup 2026 attendees and viewers stay informed, alert, and digitally safe.**
 
 ## 🌍 Overview
 
-The FIFA World Cup 2026 will bring millions of fans together across borders and devices. With that excitement comes increased exposure to cyber threats—from phishing scams and fake ticket sites to insecure public Wi-Fi. This platform aims to educate, inform, and protect fans through interactive tools and multilingual resources.
+Global events like the FIFA World Cup often attract increased cyber activity. This project aims to support fans by offering accessible tools and resources that promote cybersecurity awareness—especially in high-risk digital environments like public Wi-Fi, ticketing platforms, and social media.
 
 ## 🎯 Goals
 
-- Raise cybersecurity awareness among global event attendees
-- Provide practical, travel-specific security tips
-- Simulate common threats in a safe, educational environment
-- Offer real-time links to verified World Cup resources
-- Encourage proactive reporting of scams and suspicious activity
+- Educate fans on common cyber threats in a travel and event context  
+- Provide multilingual, user-friendly security tips and simulations  
+- Encourage safe digital habits and proactive scam reporting  
+- Link users to verified World Cup resources to avoid misinformation
 
 ## 🧩 Key Features (MVP Focus)
 
-- **Interactive Quizzes**: Phishing, social engineering, public Wi-Fi risks  
-- **Threat Simulations**: Fake hotspot demo, phishing email walkthrough  
-- **Report-a-Scam Tool**: Connect users to official reporting channels  
-- **Travel Security Tips**: Device safety, VPN usage, app hygiene  
-- **Multilingual Support**: Accessibility for international audiences  
-- **Official Info Hub**: Verified links to tickets, schedules, and services
+- **Interactive Quizzes**: Topics include phishing, social engineering, and public Wi-Fi risks  
+- **Threat Simulations**: Safe demos of fake hotspots and phishing emails  
+- **Report-a-Scam Tool**: Connects users to official reporting channels  
+- **Travel Security Tips**: Advice on securing devices, using VPNs, and avoiding risky apps  
+- **Multilingual Support**: Designed for international accessibility  
+- **Official Info Hub**: Links to verified ticketing, schedules, and services
 
 ## 🛠️ Tech Stack (Planned)
 
@@ -40,7 +39,7 @@ The FIFA World Cup 2026 will bring millions of fans together across borders and 
 
 ## 📚 Documentation
 
-Coming soon:  
+Coming soon:
 - Feature breakdown  
 - Architecture diagram  
 - User flow sketches  
@@ -48,7 +47,7 @@ Coming soon:
 
 ## 🤝 Contributing
 
-This project welcomes collaborators—especially those passionate about cybersecurity education, UX design, and multilingual accessibility. If you're interested in joining, feel free to fork the repo, submit a pull request, or reach out via [LinkedIn](https://www.linkedin.com/in/aldochipin92).
+This project welcomes collaborators—especially those interested in cybersecurity education, UX design, and multilingual accessibility. If you'd like to contribute, feel free to fork the repo, submit a pull request, or connect via [LinkedIn](https://www.linkedin.com/in/aldochipin92).
 
 ## 📄 License
 
@@ -56,6 +55,6 @@ MIT License — open-source and free to use, modify, and share.
 
 ---
 
-**Built by Aldo Chernes-Pineda**  
-Cybersecurity Analyst | Creative Technologist | Advocate for Latinx Representation in Tech  
+**Created by Aldo Chernes-Pineda**  
+Cybersecurity Analyst | Creative Technologist | Advocate for Latinx Representation in Tech
 Updated README with Cybersecurity Awareness Platform details
