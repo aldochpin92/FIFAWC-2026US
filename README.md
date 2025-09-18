@@ -57,4 +57,5 @@ MIT License — open-source and free to use, modify, and share.
 
 **Created by Aldo Chernes-Pineda**  
 Cybersecurity Analyst | Creative Technologist | Advocate for Latinx Representation in Tech
-Updated README with Cybersecurity Awareness Platform details
+Projecto Latinx.
+
